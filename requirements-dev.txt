@@ -1,0 +1,4 @@
+-r requirements.txt
+pyinstaller>=6.22
+pyftpdlib>=2.2
+asyncssh>=2.14
